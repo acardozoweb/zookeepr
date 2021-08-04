@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Jimmy",
+      "species": "Snake",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
